@@ -24,6 +24,6 @@ steps:
     backendAzureRmResourceGroupName: 'tf-backend-tg'
     backendAzureRmResourceGroupLocation: 'westeurope'
     backendAzureRmStorageAccountName: 'behzad9561'
-    backendAzureRmContainerName: 'storageaccountfortfbackend_containre'
+    backendAzureRmContainerName: 'behzad9561container'
     backendAzureRmKey: 'tf-backend-key'
     allowTelemetryCollection: true
